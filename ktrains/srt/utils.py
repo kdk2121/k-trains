@@ -19,6 +19,7 @@ station_names_korean = [
     "울산",
     "통도사",
     "부산",
+    "전주"
 ]
 station_names_english = [
     "Suseo",
@@ -41,6 +42,7 @@ station_names_english = [
     "Ulsan",
     "Tongdosa",
     "Busan",
+    "Jeonju"
 ]
 
 station_names = {"kor": station_names_korean, "en": station_names_english}
