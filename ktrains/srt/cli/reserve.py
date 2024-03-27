@@ -25,6 +25,7 @@ SRT_STATIONS = (
     "신경주",
     "울산(통도사)",
     "부산",
+    "전주",
 )
 
 not_empty = lambda s: len(s) > 0
